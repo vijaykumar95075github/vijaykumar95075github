@@ -1,17 +1,17 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile%20Views&color=00ff88&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Vijay-Kumar-git&label=Profile%20Views&color=00ff88&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building%20the%20Cloud-00ff88?style=flat-square&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-00ff88?style=flat-square" />
 </p>
 
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Suchith%20K&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Vijay%20Kumar&fontSize=70&fontColor=00ff88&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Wizard&descSize=18&descAlignY=62&descColor=ffffff" />
 </p>
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/main/Banner.jpeg"
+  <img src="https://raw.githubusercontent.com/Vijay-Kumar-git/Vijay-Kumar-git/main/Banner.jpeg"
        width="90%"
        style="border-radius:20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4);" />
 </p>
@@ -32,7 +32,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:16px;"/>
 
 ```yaml
-name: Suchith K
+name: Vijay Kumar
 role: DevOps Engineer
 location: India 🇮🇳
 focus:
@@ -124,16 +124,16 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=12" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suchith-K-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vijay-Kumar-git&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=12" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vijay-Kumar-git&theme=merko&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-Kumar-git&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suchith-K-git&theme=merko&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff88" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay-Kumar-git&theme=merko&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff88" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🏆 Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchith-K-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijay-Kumar-git&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 ---
 
@@ -149,9 +149,9 @@ open_to: Collaborations, Cloud Projects, Open Source
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Suchith-K-git/Suchith-K-git/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijay-Kumar-git/Vijay-Kumar-git/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijay-Kumar-git/Vijay-Kumar-git/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Vijay-Kumar-git/Vijay-Kumar-git/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -160,7 +160,7 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 💡 Dev Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Automate%20the%20boring.%20Architect%20the%20resilient.%20Secure%20the%20rest.&author=Suchith%20K" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Automate%20the%20boring.%20Architect%20the%20resilient.%20Secure%20the%20rest.&author=Vijay%20Kumar" />
 </p>
 
 ---
@@ -168,15 +168,15 @@ open_to: Collaborations, Cloud Projects, Open Source
 ## 🤝 Let's Build Together
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suchith-k-0262a5252/">
+  <a href="https://www.linkedin.com/in/vijay-kumar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:suchith004@gmail.com">
+  <a href="mailto:vijaykumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Suchith-K-git">
+  <a href="https://github.com/Vijay-Kumar-git">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -192,5 +192,5 @@ open_to: Collaborations, Cloud Projects, Open Source
 </p>
 
 <p align="center">
-  <sub>⚡ Built with passion, deployed with precision · Suchith K © 2025</sub>
+  <sub>⚡ Built with passion, deployed with precision · Vijay Kumar © 2025</sub>
 </p>
